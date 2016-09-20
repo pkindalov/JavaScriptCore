@@ -1,6 +1,9 @@
 /**
  * Created by r3v3nan7 on 20.9.2016 г..
  */
+ 
+ 
+ //Write a JS function to multiply two numbers given as array of strings
 
 function mult(numbers) {
     let numberOne = Number(numbers[0]);
