@@ -1,6 +1,9 @@
 /**
  * Created by r3v3nan7 on 20.9.2016 г..
  */
+ 
+//calculate circle area by given radius
+ 
 function circleArea(radius) {
     let area = Math.PI * radius * radius;
     console.log(area);
