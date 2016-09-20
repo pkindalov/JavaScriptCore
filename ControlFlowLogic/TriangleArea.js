@@ -1,6 +1,9 @@
 /**
  * Created by r3v3nan7 on 20.9.2016 г..
  */
+ 
+//Calculate triangle area by its 3 sides
+ 
 function triangleArea([a,b,c]) {
     [a,b,c] = [a,b,c].map(Number);
     let sp = (a + b + c) / 2;
